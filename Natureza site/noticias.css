@@ -1,0 +1,53 @@
+#img-nt {
+    width: 500px;
+    margin: 20px 0 0 20px;
+    box-shadow: 10px 10px 13px black;
+}
+
+.title {
+    font-size: 40px;
+    color: white;
+    text-shadow: 2px 10px 9px black;
+    font-weight: bolder;
+    position: relative;
+    bottom: 370px;
+    left: 550px;
+}
+
+.prf {
+    font-size: 25px;
+    width: 900px;
+    position: relative;
+    left: 550px;
+    bottom: 360px;
+    margin: 10px 0 0 0;
+    font-weight: bolder;
+}
+
+#img-enchente {
+    width: 500px;
+    margin: 20px 0 0 20px;
+    box-shadow: 10px 10px 13px black;
+    position: relative;
+    bottom: 220px;
+}
+
+.title2 {
+    font-size: 40px;
+    color: white;
+    text-shadow: 2px 10px 9px black;
+    font-weight: bolder;
+    position: relative;
+    bottom: 530px;
+    left: 550px;
+}
+
+.prf2 {
+    font-size: 25px;
+    width: 900px;
+    position: relative;
+    left: 550px;
+    bottom: 520px;
+    margin: 10px 0 0 0;
+    font-weight: bolder;
+}

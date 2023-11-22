@@ -1,0 +1,91 @@
+#barraca-img {
+    width: 500px;
+    margin: 20px 0 0 20px;
+    box-shadow: 10px 10px 13px black;
+}
+
+#title {
+    font-size: 40px;
+    color: white;
+    text-shadow: 2px 10px 9px black;
+    font-weight: bolder;
+    position: relative;
+    bottom: 390px;
+    left: 770px;
+}
+
+.prf {
+    font-size: 23px;
+    width: 900px;
+    position: relative;
+    left: 550px;
+    bottom: 385px;
+    margin: 10px 0 0 0;
+    font-weight: bolder;
+}
+
+#img-fogueira {
+    width: 500px;
+    margin: 20px 0 0 20px;
+    box-shadow: 10px 10px 13px black;
+    position: relative;
+    bottom: 220px;
+}
+
+.para {
+    text-align: center;
+    font-size: 23px;
+    width: 900px;
+    position: relative;
+    left: 550px;
+    bottom: 550px;
+    margin: 10px 0 0 0;
+    font-weight: bolder;
+}
+
+.title2 {
+    font-size: 40px;
+    color: white;
+    text-shadow: 2px 10px 9px black;
+    font-weight: bolder;
+    position: relative;
+    bottom: 10px;
+}
+
+.prf2 {
+    font-size: 23px;
+    width: 900px;
+    position: relative;
+    left: 10px;
+    bottom: 5px;
+    margin: 10px 0 0 0;
+    font-weight: bolder;
+}
+
+#img-filtro {
+    width: 400px;
+    margin: 20px 0 0 20px;
+    box-shadow: 10px 10px 13px black;
+    position: relative;
+    bottom: 520px;
+}
+
+.title3 {
+    font-size: 40px;
+    color: white;
+    text-shadow: 2px 10px 9px black;
+    font-weight: bolder;
+    position: relative;
+    bottom: 900px;
+    left: 600px;
+}
+
+.prf3 {
+    font-size: 23px;
+    width: 900px;
+    position: relative;
+    left: 500px;
+    bottom: 890px;
+    margin: 10px 0 0 0;
+    font-weight: bolder;
+}

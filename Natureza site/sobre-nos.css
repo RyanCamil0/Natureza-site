@@ -1,0 +1,18 @@
+#title {
+    font-size: 50px;
+    font-weight: bolder;
+    font-style: italic;
+    margin: 30px 0 0 0;
+    color: green;
+    width: 490px;
+    border-bottom: solid 4px yellow;
+    position: relative;
+    left: 670px;
+}
+
+#prf {
+    font-size: 30px;
+    text-align: center;
+    margin: 50px 0 0 0;
+    font-weight: bolder;
+}
