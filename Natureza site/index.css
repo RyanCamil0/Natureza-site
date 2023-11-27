@@ -69,7 +69,7 @@ nav a:hover {
 .lista {
     position: relative;
     left: 650px;
-    bottom: 400px;
+    bottom: 450px;
     color: white;
     font-size: 22px;
     font-weight: bolder;
@@ -83,6 +83,11 @@ nav a:hover {
     margin: 0 0 15px 0;
     border-bottom: solid 2px #fff700;
     width: 550px;
+}
+
+.li-space {
+    margin: 0 0 5px 0;
+    font-size: 25px;
 }
 
 .pr2 {
