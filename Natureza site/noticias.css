@@ -51,3 +51,31 @@
     margin: 10px 0 0 0;
     font-weight: bolder;
 }
+
+#img-ntn3 {
+    width: 500px;
+    margin: 20px 0 0 20px;
+    box-shadow: 10px 10px 13px black;
+    position: relative;
+    bottom: 460px;
+}
+
+.title3 {
+    font-size: 40px;
+    color: white;
+    text-shadow: 2px 10px 9px black;
+    font-weight: bolder;
+    position: relative;
+    bottom: 780px;
+    left: 550px;
+}
+
+.prf3 {
+    font-size: 25px; 
+    width: 900px;
+    position: relative;
+    left: 550px;
+    bottom: 770px;
+    margin: 10px 0 0 0;
+    font-weight: bolder;
+}
